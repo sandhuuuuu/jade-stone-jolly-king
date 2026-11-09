@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Cadence",
+      "hasCanvas": false,
+      "bodyTextLen": 374,
+      "bodyTextHash": "978a44442aff0fb49673768a6601ed6f06ac42d3c86390601e16fdd92d2278bf",
+      "bodyTextPrefix": "CADENCE Tuesday 3 November 1/3 today 2 left today. 33% Today Wee",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Cadence",
+      "hasCanvas": false,
+      "bodyTextLen": 374,
+      "bodyTextHash": "978a44442aff0fb49673768a6601ed6f06ac42d3c86390601e16fdd92d2278bf",
+      "bodyTextPrefix": "CADENCE Tuesday 3 November 1/3 today 2 left today. 33% Today Wee",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [
+    "BRAND NOTE: no custom public/og.jpg — the platform will serve the og.grok.me placeholder. Custom cards are the default for games of every kind (DOM board/word games included), whimsical apps, creative tools, and brand-forward pages — only plain utilities (converters, CRUD trackers, admin dashboards) keep the placeholder. If this app is not a plain utility, finish the brand-asset pass per /workspace/.grok/skills/og/SKILL.md."
+  ],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
